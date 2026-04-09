@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>vermontbankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://vermontbankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://vermontbankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://vermontbankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Vermont Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://vermontbankruptcy.org/" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Vermont bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Vermont exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The 341 Meeting of Creditors in Vermont</title>
+    <link href="https://vermontbankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What to expect at the 341 meeting of creditors in Vermont bankruptcy. How to prepare, common questions, what to bring, and tips for success.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Vermont Bankruptcy</title>
+    <link href="https://vermontbankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Vermont residents when filing bankruptcy. What stops immediately, what does not, stay violations, and.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Vermont</title>
+    <link href="https://vermontbankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Vermont. Levies, setoff rights, protecting deposits, and what to do before filing in D. Vt..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13 in Vermont?</title>
+    <link href="https://vermontbankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to buy a car during Chapter 13 bankruptcy in Vermont. Court motions, trustee approval, interest rates, and budget requirements.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Vermont</title>
+    <link href="https://vermontbankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When and how you can buy a home after filing bankruptcy in Vermont. Waiting periods for FHA, VA, and conventional loans, credit rebuilding, and Vermont.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy in Vermont</title>
+    <link href="https://vermontbankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens to your car lease in Vermont bankruptcy. Assume or reject, 60-day deadline, early termination fees, and practical options.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy Eligibility in Vermont</title>
+    <link href="https://vermontbankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements in Vermont. Debt limits, regular income, plan length, and requirements for filing in D. Vt..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Vermont</title>
+    <link href="https://vermontbankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 payment amounts are calculated in Vermont. Disposable income, plan length, missed payments, and modification options in D. Vt..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Vermont -- Payment Plans, Timeline</title>
+    <link href="https://vermontbankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://vermontbankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Vermont. Payment plan basics, timeline, 3-5 year commitment, and what to expect during the repayment process.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
