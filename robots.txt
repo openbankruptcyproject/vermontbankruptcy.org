@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://vermontbankruptcy.org/sitemap.xml
 
-Sitemap: https://vermontbankruptcy.org/feed.xml
+
+Sitemap: https://vermontbankruptcy.org/sitemapindex.xml
