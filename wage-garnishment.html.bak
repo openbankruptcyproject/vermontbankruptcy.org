@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Wage Garnishment and Bankruptcy in Vermont</title>
+<meta content="How to stop wage garnishment in Vermont by filing bankruptcy. Vermont garnishment limits, the automatic stay, and recovering garnished wages." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://vermontbankruptcy.org/wage-garnishment.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much of my wages can be garnished in Vermont?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vermont follows the federal standard for wage garnishment: creditors can garnish the lesser of 25% of disposable earnings or the amount exceeding 30 times the federal minimum wage per week."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can bankruptcy stop wage garnishment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Filing bankruptcy in Vermont triggers the automatic stay under 11 U.S.C. section 362, which immediately stops all wage garnishment. Your employer will be notified and must stop withholding garnished wages."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get back wages that were already garnished?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In some cases, yes. If wages were garnished within 90 days before filing and exceed $600, the bankruptcy trustee may be able to recover those funds as a preferential transfer. Discuss this with your attorney."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What debts can lead to wage garnishment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In general, any creditor who obtains a court judgment can garnish wages. Common sources include credit card debt, medical bills, personal loans, and auto deficiency balances. Child support and tax debts can be garnished without a court judgment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the automatic stay stop all types of garnishment in Vermont?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The automatic stay stops garnishment for most debts, but not for domestic support obligations (child support and alimony). Tax garnishment is also stopped temporarily. Student loan garnishment by the government is stopped during the bankruptcy case."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Wage Garnishment and Bankruptcy in Vermont",
+      "description": "How to stop wage garnishment in Vermont by filing bankruptcy. Vermont garnishment limits, the automatic stay, and recovering garnished wages.",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-04-05",
+      "dateModified": "2026-04-05",
+      "mainEntityOfPage": "https://vermontbankruptcy.org/wage-garnishment.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://vermontbankruptcy.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vermont Bankruptcy Guide",
+          "item": "https://vermontbankruptcy.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wage Garnishment",
+          "item": "https://vermontbankruptcy.org/wage-garnishment.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Wage Garnishment and Bankruptcy in Vermont",
+      "url": "https://vermontbankruptcy.org/wage-garnishment.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.compare-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
+.compare-card h3{font-size:1.1rem;margin-bottom:10px}
+.stops-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.stops-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
+.stops-card.green{border-color:#3fb950}
+.stops-card.red{border-color:#f85149}
+.stops-card h3{font-size:1.1rem;margin-bottom:10px}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+.disclaimer{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 24px;margin:24px 0;color:#f85149;font-size:0.9rem}
+.step-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin:20px 0}
+.step-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px;text-align:center}
+.step-card .num{font-size:2rem;color:#58a6ff;font-weight:700}
+.timeline-item{display:flex;gap:20px;margin-bottom:24px}
+.timeline-dot{min-width:40px;text-align:center}
+.timeline-dot .dot{width:16px;height:16px;background:#58a6ff;border-radius:50%;margin:4px auto}
+.timeline-content{flex:1}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.stops-grid,.compare-grid,.step-grid{grid-template-columns:1fr}}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<link href="https://vermontbankruptcy.org/wage-garnishment.html" hreflang="en" rel="alternate"/>
+<link href="https://vermontbankruptcy.org/wage-garnishment-es.html" hreflang="es" rel="alternate"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Vermont Bankruptcy Information",
+  "description": "Free bankruptcy information and resources for Vermont residents.",
+  "url": "https://vermontbankruptcy.org/",
+  "areaServed": {
+    "@type": "City",
+    "name": "Vermont"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "serviceType": "Bankruptcy Information",
+  "isAccessibleForFree": true
+}
+</script>
+<meta content="https://vermontbankruptcy.org/og-image.svg" property="og:image"/>
+<meta content="https://vermontbankruptcy.org/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">Vermont Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="/burlington/">Burlington</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://vermontbankruptcy.org">Vermont Bankruptcy Guide</a><span class="separator">›</span><span>Wage Garnishment</span></nav>
+<div class="hero"><div class="container">
+<h1>Wage Garnishment and Bankruptcy in Vermont</h1>
+<p class="subtitle">If your paycheck is being garnished, filing bankruptcy can stop it immediately. Here is how <a href="https://garnishedwages.org" title="Stop Wage Garnishment">wage garnishment</a> works in Vermont and how bankruptcy provides relief.</p>
+</div></div>
+<div class="container">
+<div class="disclaimer">This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.</div>
+</div>
+<section><div class="container">
+<h2>Vermont Wage Garnishment Rules</h2>
+<div class="card">
+<p>Vermont follows the federal standard for <a href="https://stopgarnishment.org/" title="wage garnishment">wage garnishment</a>: creditors can garnish the lesser of 25% of disposable earnings or the amount exceeding 30 times the federal minimum wage per week.</p>
+<p><strong>How garnishment works:</strong> A creditor must first sue you and win a judgment. Then they file a garnishment order with the court, which is served on your employer. Your employer is legally required to withhold the garnished amount from your paycheck.</p>
+<p><strong>Exceptions that do not require a judgment:</strong></p>
+<ul>
+<li>Federal <a href="https://bankruptcystudentloans.org/" title="student loans">student loan</a> garnishment (up to 15% of disposable pay)</li>
+<li>Child support and alimony</li>
+<li>Federal and state tax debts</li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>How Bankruptcy Stops Garnishment</h2>
+<div class="stops-grid">
+<div class="stops-card green">
+<h3 style="color:#3fb950">Immediately Stopped</h3>
+<ul>
+<li>Credit card debt garnishment</li>
+<li>Medical bill garnishment</li>
+<li>Personal loan garnishment</li>
+<li>Auto deficiency garnishment</li>
+<li><a href="https://bankruptcystudentloans.org/" title="student loans">Student loan</a> garnishment</li>
+<li>Most judgment garnishments</li>
+</ul>
+</div>
+<div class="stops-card red">
+<h3 style="color:#f85149">NOT Stopped</h3>
+<ul>
+<li>Child support withholding</li>
+<li>Alimony withholding</li>
+<li>Domestic support obligations</li>
+</ul>
+</div>
+</div>
+<div class="card" style="margin-top:20px">
+<p>The <a href="automatic-stay.html">automatic stay</a> takes effect the instant you file your bankruptcy petition. Your attorney will notify your employer and the garnishing creditor. Garnishment must stop immediately - any wages garnished after filing may need to be returned to you.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Recovering Previously Garnished Wages</h2>
+<div class="card">
+<p>Under 11 U.S.C. section 547, the <a href="https://bankruptcytrustee.org/" title="trustee">bankruptcy trustee</a> may be able to recover wages garnished within 90 days before your filing date if the total exceeds $600. These recovered funds become part of your <a href="https://1328f.com/glossary.html#estate" title="estate">bankruptcy estate</a> and may be distributed to creditors or exempted by you.</p>
+<p>This is another reason why timing your bankruptcy filing strategically matters. Consulting with an attorney or legal aid about the best time to file can maximize your recovery.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Chapter 7 vs. Chapter 13 for Garnishment</h2>
+<div class="compare-grid">
+<div class="compare-card">
+<h3>Chapter 7</h3>
+<ul>
+<li>Stops garnishment immediately</li>
+<li>Discharges the underlying debt in 3-4 months</li>
+<li>Garnishment cannot resume for discharged debts</li>
+<li>Must pass the <a href="https://meanstest.org/" title="means test">means test</a></li>
+</ul>
+</div>
+<div class="compare-card">
+<h3>Chapter 13</h3>
+<ul>
+<li>Stops garnishment immediately</li>
+<li>Repay debts through a structured plan instead</li>
+<li>Better for debts that cannot be discharged in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></li>
+<li>3-5 year repayment period</li>
+</ul>
+</div>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>How much of my wages can be garnished in Vermont?</summary><div class="answer"><p>Vermont follows the federal standard for <a href="https://stopgarnishment.org/" title="wage garnishment">wage garnishment</a>: creditors can garnish the lesser of 25% of disposable earnings or the amount exceeding 30 times the federal minimum wage per week.</p></div></details><details class="faq-item"><summary>Can bankruptcy stop wage garnishment?</summary><div class="answer"><p>Yes. Filing bankruptcy in Vermont triggers the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> under 11 U.S.C. section 362, which immediately stops all wage garnishment. Your employer will be notified and must stop withholding garnished wages.</p></div></details><details class="faq-item"><summary>Can I get back wages that were already garnished?</summary><div class="answer"><p>In some cases, yes. If wages were garnished within 90 days before filing and exceed $600, the <a href="https://bankruptcytrustee.org/" title="trustee">bankruptcy trustee</a> may be able to recover those funds as a preferential transfer. Discuss this with your attorney.</p></div></details><details class="faq-item"><summary>What debts can lead to wage garnishment?</summary><div class="answer"><p>In general, any creditor who obtains a court judgment can garnish wages. Common sources include credit card debt, medical bills, personal loans, and auto deficiency balances. Child support and tax debts can be garnished without a court judgment.</p></div></details><details class="faq-item"><summary>Does the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> stop all types of garnishment in Vermont?</summary><div class="answer"><p>The automatic stay stops garnishment for most debts, but not for domestic support obligations (child support and alimony). Tax garnishment is also stopped temporarily. Student loan garnishment by the government is stopped during the bankruptcy case.</p></div></details>
+</div></section>
+<div class="container">
+<div style="text-align:center;padding:40px 0">
+<h2>Stop Garnishment Now</h2>
+<p>Check your eligibility for bankruptcy and learn how to stop wage garnishment.</p>
+<a class="cta" href="https://1328f.com" style="margin-right:12px">Free Discharge Screener</a>
+<a class="cta" href="https://garnishedwages.org" style="background:#1f6feb">Garnishment Guide</a>
+</div>
+<div class="container">
+<div class="network">
+<h3>Browse Other States</h3>
+<div class="network-links">
+<a href="https://iowabankruptcy.org">Iowa</a>
+<a href="https://marylandbankruptcy.org">Maryland</a>
+<a href="https://minnesotabankruptcy.org">Minnesota</a>
+<a href="https://rhodeislandbankruptcy.org">Rhode Island</a>
+<a href="https://vermontbankruptcy.org">Vermont</a>
+<a href="https://ohiobankruptcy.org">Ohio</a>
+<a href="https://openbankruptcyproject.org/states.html">View All States →</a>
+</div>
+</div>
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://automaticstay.org">Automatic Stay</a>
+<a href="https://341meeting.org">341 Meeting</a>
+<a href="https://bankruptcymeanstest.org">Means Test</a>
+<a href="https://howmuchdoesbankruptcycost.com">Cost Guide</a>
+<a href="https://bankruptcydismissed.com">Dismissed?</a>
+<a href="https://filebankruptcyagain.com">File Again?</a>
+<a href="https://howtofilebankruptcy.org">How to File</a>
+</div>
+</div>
+</div>
+<!-- Related Vermont Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related Vermont Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Vermont Bankruptcy Guide</a></li>
+<li><a href="/chapter-7.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 7 in Vermont</a></li>
+<li><a href="/chapter-13.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 13 in Vermont</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Vermont Exemptions</a></li>
+<li><a href="/cost.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Bankruptcy Cost in Vermont</a></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://studentloanforgive.org/?utm_source=vermontbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loan Forgiveness Programs</a> <span style="color:#7d8590;font-size:0.8rem">-- studentloanforgive.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=vermontbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=vermontbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+</ul>
+</div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</div></body>
+</html>
