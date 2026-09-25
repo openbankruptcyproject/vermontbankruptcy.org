@@ -938,21 +938,21 @@ Federal Exemptions (Alternative)
 
 PropertyFederal Exemption
 
-Homestead$27,900
+Homestead$31,575
 
-Motor vehicle$4,450
+Motor vehicle$5,025
 
-Wildcard$1,475 + up to $13,950 unused homestead
+Wildcard$1,675 + up to $15,800 unused homestead
 
-Household goods$700 per item, $14,875 total
+Household goods$800 per item, $16,850 total
 
-Jewelry$1,875
+Jewelry$2,125
 
 Frequently Asked Questions
 
 Which should I choose?
 
-Homeowners with significant equity usually benefit from state exemptions ($125,000 homestead). Renters or those with little equity may prefer the federal wildcard ($1,475 + up to $13,950).
+Homeowners with significant equity usually benefit from state exemptions ($125,000 homestead). Renters or those with little equity may prefer the federal wildcard ($1,675 + up to $15,800).
 
 Is my retirement safe?
 
@@ -2221,7 +2221,7 @@ Regular contributions from a spouse or household member
 
 2. Debt Limits
 
-Your total debts (secured plus unsecured) must not exceed $2,750,000. This combined limit was established by the Bankruptcy Threshold Adjustment and Technical Corrections Act of 2022.
+Under Section 109(e), your noncontingent, liquidated unsecured debts must be less than $526,700, and your noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired.
 
 3. Tax Filing
 
@@ -2269,7 +2269,7 @@ Frequently Asked Questions
 
 What are the debt limits for Chapter 13 in Vermont?
 
-As of 2024, the debt limit for Chapter 13 is $2,750,000 in combined secured and unsecured debts. This limit was updated by the Bankruptcy Threshold Adjustment and Technical Corrections Act. If your debts exceed this amount, you may need to file Chapter 11 instead.
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Do I need regular income to file Chapter 13?
 
@@ -2868,7 +2868,7 @@ Vehicle$2,500
 
 Household goods$2,500 total
 
-Wildcard$400 plus up to $7,575 of unused homestead (state); federal: $1,475 + up to $13,950 unused homestead
+Wildcard$400 plus up to $7,575 of unused homestead (state); federal: $1,675 + up to $15,800 unused homestead
 
 Tools of trade$5,000
 
@@ -3676,7 +3676,7 @@ Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is pre
 
 Luxury goods/services over $800 charged within 90 days before filing
 
-Cash advances over $1,100 within 70 days before filing
+Cash advances over $1,250 within 70 days before filing
 
 These are rebuttable presumptions. The credit card company must file an adversary proceeding to challenge discharge, and you can present evidence that the charges were made with the intent and ability to repay.
 
@@ -3712,7 +3712,7 @@ Yes. Credit card debt is unsecured debt and is generally dischargeable in both C
 
 Will recent credit card charges be discharged?
 
-Charges of over $800 for luxury goods or services within 90 days of filing, and cash advances over $1,100 within 70 days of filing, are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). The creditor must object for this to apply.
+Charges of over $900 for luxury goods or services within 90 days of filing, and cash advances over $1,250 within 70 days of filing, are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). The creditor must object for this to apply.
 
 Can creditors sue me for credit card debt?
 
@@ -3800,7 +3800,7 @@ Using Credit Cards Before Bankruptcy in Vermont
 
 Stop using credit cards once you decide to file bankruptcy. Charges made near filing can be challenged as fraud - and the presumption works against you.
 
-Quick answer: Do not use credit cards once you decide to file bankruptcy. Luxury purchases over $800 within 90 days and cash advances over $1,100 within 70 days are presumed fraudulent. These debts may survive your discharge.
+Quick answer: Do not use credit cards once you decide to file bankruptcy. Luxury purchases over $900 within 90 days and cash advances over $1,250 within 70 days are presumed fraudulent. These debts may survive your discharge.
 
 The Two Presumption Periods
 
@@ -3872,7 +3872,7 @@ Frequently Asked Questions
 
 Can I use credit cards before filing bankruptcy in Vermont?
 
-Technically you can, but it is strongly discouraged. Charges made with no intent to repay can be challenged as fraud. Luxury purchases over $800 within 90 days of filing are presumed fraudulent. Cash advances over $1,100 within 70 days are also presumed fraudulent.
+Technically you can, but it is strongly discouraged. Charges made with no intent to repay can be challenged as fraud. Luxury purchases over $900 within 90 days of filing are presumed fraudulent. Cash advances over $1,250 within 70 days are also presumed fraudulent.
 
 What is the 90-day rule for credit cards before bankruptcy?
 
@@ -3880,7 +3880,7 @@ Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services excee
 
 What is the 70-day rule for cash advances?
 
-Cash advances exceeding $1,100 taken within 70 days of filing are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). This includes balance transfers, convenience checks, and ATM cash advances.
+Cash advances exceeding $1,250 taken within 70 days of filing are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). This includes balance transfers, convenience checks, and ATM cash advances.
 
 What counts as a luxury purchase?
 
@@ -4785,11 +4785,11 @@ Can I Keep My Jewelry in Vermont Bankruptcy?
 
 Your engagement ring, wedding band, and other jewelry may be protected by Vermont exemptions. Here is what the law says and how values are determined.
 
-Quick answer: Vermont offers a choice. Under state exemptions, jewelry is protected up to $500 (12 V.S.A. 2740(1)). However, Vermont allows the federal exemptions, which protect $1,875 in jewelry under 11 U.S.C. 522(d)(4). Most filers with valuable jewelry elect the federal exemptions.
+Quick answer: Vermont offers a choice. Under state exemptions, jewelry is protected up to $500 (12 V.S.A. 2740(1)). However, Vermont allows the federal exemptions, which protect $2,125 in jewelry under 11 U.S.C. 522(d)(4). Most filers with valuable jewelry elect the federal exemptions.
 
 Vermont Jewelry Exemption Details
 
-Vermont offers a choice. Under state exemptions, jewelry is protected up to $500 (12 V.S.A. 2740(1)). However, Vermont allows the federal exemptions, which protect $1,875 in jewelry under 11 U.S.C. 522(d)(4). Most filers with valuable jewelry elect the federal exemptions.
+Vermont offers a choice. Under state exemptions, jewelry is protected up to $500 (12 V.S.A. 2740(1)). However, Vermont allows the federal exemptions, which protect $2,125 in jewelry under 11 U.S.C. 522(d)(4). Most filers with valuable jewelry elect the federal exemptions.
 
 The exemption amount is based on the jewelry's replacement value - what a comparable item would cost at retail, not what a pawnshop or jeweler would pay you. In practice, most everyday jewelry (wedding rings, watches, earrings) falls well within the exemption limits.
 
@@ -4829,17 +4829,17 @@ Chapter 13: In Chapter 13, you keep all your property. Instead of surrendering j
 
 Negotiate with trustee: You may be able to pay the trustee the non-exempt value in cash to keep the jewelry - called "buying back" the asset from the estate.
 
-Federal exemptions: If Vermont allows the federal exemptions (11 U.S.C. 522(d)), you may get a higher jewelry exemption ($1,875) plus a significant wildcard ($1,475 + up to $13,950 of unused homestead).
+Federal exemptions: If Vermont allows the federal exemptions (11 U.S.C. 522(d)), you may get a higher jewelry exemption ($2,125) plus a significant wildcard ($1,675 + up to $15,800 of unused homestead).
 
 Frequently Asked Questions
 
 Can I keep my engagement ring in Vermont bankruptcy?
 
-It depends on the ring's value and Vermont's exemptions. $500 jewelry or federal $1,875 (12 V.S.A. 2740(1) or 11 U.S.C. 522(d)(4)). If your ring's value is below the exemption limit, you can keep it. If it exceeds the limit, you may need to use additional exemptions (like a wildcard) to protect it.
+It depends on the ring's value and Vermont's exemptions. $500 jewelry or federal $2,125 (12 V.S.A. 2740(1) or 11 U.S.C. 522(d)(4)). If your ring's value is below the exemption limit, you can keep it. If it exceeds the limit, you may need to use additional exemptions (like a wildcard) to protect it.
 
 What is the jewelry exemption in Vermont?
 
-$500 jewelry or federal $1,875 (12 V.S.A. 2740(1) or 11 U.S.C. 522(d)(4)). This applies to all jewelry including engagement rings, wedding bands, watches, and other personal adornment. Values are based on resale/liquidation value, not what you paid.
+$500 jewelry or federal $2,125 (12 V.S.A. 2740(1) or 11 U.S.C. 522(d)(4)). This applies to all jewelry including engagement rings, wedding bands, watches, and other personal adornment. Values are based on resale/liquidation value, not what you paid.
 
 How is jewelry valued in bankruptcy?
 
@@ -5125,7 +5125,7 @@ Tools of trade$5,000
 
 Jewelry$500
 
-Wildcard$400 plus up to $7,575 of unused homestead (state); federal: $1,475 + up to $13,950 unused homestead
+Wildcard$400 plus up to $7,575 of unused homestead (state); federal: $1,675 + up to $15,800 unused homestead
 
 Retirement accounts (IRA, 401k, pension)Fully exempt
 
@@ -5139,15 +5139,15 @@ Federal Exemption Alternative
 
 PropertyFederal Exemption
 
-Homestead$27,900
+Homestead$31,575
 
-Vehicle$4,450
+Vehicle$5,025
 
-Household goods$700 per item / $14,875 total
+Household goods$800 per item / $16,850 total
 
-Wildcard$1,475 + up to $13,950 unused homestead
+Wildcard$1,675 + up to $15,800 unused homestead
 
-Tools of trade$2,800
+Tools of trade$3,175
 
 Retirement accountsFully exempt
 
@@ -5766,7 +5766,7 @@ Frequently Asked Questions
 
 What is the difference between Chapter 7 and Chapter 13?
 
-Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($2,750,000).
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 What does discharge mean in bankruptcy?
 
@@ -5876,7 +5876,7 @@ Plan length: Above-median income requires a 5-year plan; below-median allows 3-5
 
 Payment amount: Higher income means higher monthly plan payments
 
-Debt limits: Total debts (secured plus unsecured) cannot exceed $2,750,000
+Debt limits: Unsecured debts cannot exceed $526,700; secured debts cannot exceed $1,580,125
 
 Chapter 13 requires regular income - wages, salary, self-employment, Social Security, pension, or other consistent sources.
 
@@ -5902,7 +5902,7 @@ Frequently Asked Questions
 
 What are the income limits for bankruptcy in Vermont?
 
-For Chapter 7, your household income must be at or below the Vermont median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has a debt limit of $2,750,000.
+For Chapter 7, your household income must be at or below the Vermont median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 What if my income is too high for Chapter 7?
 
@@ -6077,7 +6077,7 @@ Vehicle$2,500
 
 Household goods$2,500 total
 
-Wildcard$400 plus up to $7,575 of unused homestead (state); federal: $1,475 + up to $13,950 unused homestead
+Wildcard$400 plus up to $7,575 of unused homestead (state); federal: $1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exempt
 
@@ -7235,7 +7235,7 @@ File a new bankruptcy: If eligible under 11 U.S.C. section 727(a)(8) (Chapter 7:
 
 Vermont-Specific Considerations
 
-Vermont allows federal exemptions. The federal motor vehicle exemption ($4,450) or Vermont's state motor vehicle exemption ($2,500 under 12 V.S.A. section 2740(2)) differ significantly - federal exemptions may provide better vehicle protection. The federal wildcard can add more. The District of Vermont reviews reaffirmation agreements. The 60-day rescission period applies. Vermont Consumer Protection Act (9 V.S.A. Ch. 63) is one of the stronger state consumer protection laws.
+Vermont allows federal exemptions. The federal motor vehicle exemption ($5,025) or Vermont's state motor vehicle exemption ($2,500 under 12 V.S.A. section 2740(2)) differ significantly - federal exemptions may provide better vehicle protection. The federal wildcard can add more. The District of Vermont reviews reaffirmation agreements. The 60-day rescission period applies. Vermont Consumer Protection Act (9 V.S.A. Ch. 63) is one of the stronger state consumer protection laws.
 
 Common Reaffirmation Regrets
 
@@ -7960,7 +7960,7 @@ Retirement Accounts and Bankruptcy in Vermont
 
 Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Vermont filers need to know.
 
-Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,512,350. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
+Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
 ERISA Plans: 100% Protected
 
@@ -7982,7 +7982,7 @@ This protection applies nationwide regardless of state exemption choices. The tr
 
 IRAs: Protected Up to $1,512,350
 
-Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,512,350 (adjusted for inflation). This limit applies to:
+Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
 Traditional IRAs
 
@@ -7992,11 +7992,11 @@ SEP-IRAs (may receive full ERISA protection if employer-sponsored)
 
 SIMPLE IRAs (may receive full ERISA protection)
 
-Rollover amounts from an ERISA plan into an IRA retain their unlimited ERISA protection - they do not count against the $1,512,350 cap.
+Rollover amounts from an ERISA plan into an IRA retain their unlimited ERISA protection - they do not count against the $1,711,975 cap.
 
 Vermont-Specific Retirement Protections
 
-Vermont allows filers to choose federal exemptions, making the federal IRA exemption ($1,512,350) available. ERISA-qualified plans are 100% exempt under both state and federal law. Vermont exempts retirement accounts under 12 V.S.A. section 2740(16). Vermont State Employees Retirement System and Vermont Teachers Retirement System benefits are fully exempt. The federal vs. state exemption choice can significantly affect asset protection.
+Vermont allows filers to choose federal exemptions, making the federal IRA exemption ($1,711,975) available. ERISA-qualified plans are 100% exempt under both state and federal law. Vermont exempts retirement accounts under 12 V.S.A. section 2740(16). Vermont State Employees Retirement System and Vermont Teachers Retirement System benefits are fully exempt. The federal vs. state exemption choice can significantly affect asset protection.
 
 Important: Vermont uses state or federal exemptions. If you have a choice between state and federal exemptions, compare the total exemption picture - retirement is just one factor.
 
@@ -8022,7 +8022,7 @@ Yes. ERISA-qualified plans are 100% exempt under federal law. Your 401(k) is com
 
 Are IRAs protected?
 
-Yes, up to $1,512,350 combined for all traditional and Roth IRAs. Rollover amounts from ERISA plans keep their unlimited protection.
+Yes, up to $1,711,975 combined for all traditional and Roth IRAs. Rollover amounts from ERISA plans keep their unlimited protection.
 
 Can I contribute to retirement during Chapter 13?
 
@@ -8403,11 +8403,11 @@ Federal Alternative
 
 PropertyFederal
 
-Homestead$27,900
+Homestead$31,575
 
-Vehicle$4,450
+Vehicle$5,025
 
-Wildcard$1,475 + $13,950 unused homestead
+Wildcard$1,675 + $15,800 unused homestead
 
 Vermont Exemptions Explained for Rutland Filers
 
@@ -9066,7 +9066,7 @@ No creditor committee (usually)
 
 Debtor remains in control
 
-Debt limit: $7.5 million
+Debt limit: $3,424,000
 
 Best for: viable businesses needing debt relief
 
@@ -9078,7 +9078,7 @@ Continue operating the business
 
 Restructure personal and business debts
 
-Debt limits apply (currently ~$2.75M)
+Debt limits apply (unsecured under $526,700; secured under $1,580,125)
 
 3-5 year repayment plan
 
@@ -9134,11 +9134,11 @@ Frequently Asked Questions
 
 What are my bankruptcy options as a small business owner in Vermont?
 
-Small business owners in Vermont have several options: Chapter 7 (liquidation of business assets), Chapter 11 Subchapter V (streamlined reorganization for businesses with less than $7.5 million in debt), Chapter 13 (if you are a sole proprietor with debts under the limit), or simply closing the business and filing personal Chapter 7 to discharge personal guarantees.
+Small business owners in Vermont have several options: Chapter 7 (liquidation of business assets), Chapter 11 Subchapter V (streamlined reorganization for businesses with no more than $3,424,000 in debt), Chapter 13 (if you are a sole proprietor with debts under the limit), or simply closing the business and filing personal Chapter 7 to discharge personal guarantees.
 
 What is Subchapter V of Chapter 11?
 
-Subchapter V is a streamlined Chapter 11 process created by the Small Business Reorganization Act of 2019. It is designed for businesses with less than $7.5 million in non-contingent, liquidated debt. It is faster, cheaper, and more debtor-friendly than traditional Chapter 11.
+Subchapter V is a streamlined Chapter 11 process created by the Small Business Reorganization Act of 2019. It is designed for businesses with no more than $3,424,000 in non-contingent, liquidated debt. It is faster, cheaper, and more debtor-friendly than traditional Chapter 11.
 
 Am I personally liable for business debts?
 
@@ -9674,7 +9674,7 @@ Deficiency discharged - in Chapter 7, the deficiency is eliminated; in Chapter 1
 
 Vermont Vehicle Exemptions
 
-Vermont's state motor vehicle exemption ($2,500) is low, but the federal exemption option ($4,450 plus wildcard) provides better protection. Surrendering an underwater vehicle eliminates the deficiency in Chapter 7. Vermont's rural character and harsh winters make reliable transportation essential. Public transit is limited (Green Mountain Transit serves Burlington area, rural areas have very limited service).
+Vermont's state motor vehicle exemption ($2,500) is low, but the federal exemption option ($5,025 plus wildcard) provides better protection. Surrendering an underwater vehicle eliminates the deficiency in Chapter 7. Vermont's rural character and harsh winters make reliable transportation essential. Public transit is limited (Green Mountain Transit serves Burlington area, rural areas have very limited service).
 
 When Surrender Makes Sense
 
