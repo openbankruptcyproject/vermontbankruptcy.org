@@ -1,6 +1,6 @@
 # vermontbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on vermontbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -21,6 +21,8 @@ The 341 Meeting of Creditors in Vermont
 The 341 meeting is one of the most anxiety-inducing parts of bankruptcy, but it is usually quick and straightforward. Here is what to expect in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The 341 meeting (named after section 341 of the Bankruptcy Code) is a required hearing in every bankruptcy case. It is held about 30 days after filing and is conducted by the bankruptcy trustee, not the judge. In Vermont, meetings are held at U.S. Bankruptcy Court, 11 Elmwood Ave, Burlington, VT 05401 or by phone/video.
 
 What Is the 341 Meeting?
 
@@ -174,15 +176,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -207,6 +227,8 @@ The Automatic Stay in Vermont Bankruptcy
 The moment you file bankruptcy in Vermont, a powerful federal court order called the automatic stay goes into effect. It immediately stops most creditor actions against you. Here is what it covers and what it does not.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The automatic stay is a federal court order under 11 U.S.C. section 362 that takes effect the instant you file bankruptcy. It immediately stops most collection actions including wage garnishment, foreclosure proceedings, repossession attempts, lawsuits, harassing phone calls, and utility shutoffs. It applies to all creditors in Vermont whether they know about the filing or not.
 
 What the Automatic Stay Stops Immediately
 
@@ -372,15 +394,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -405,6 +445,8 @@ Bank Accounts and Bankruptcy in Vermont
 Understanding how bankruptcy interacts with your bank accounts in Vermont can help you protect your money and avoid unexpected freezes or seizures.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Before bankruptcy, a creditor with a judgment can levy (freeze and seize funds from) your bank account in Vermont. After you file bankruptcy, the automatic stay immediately prohibits any new levies and may require release of frozen funds.
 
 Bank Account Levies and the Automatic Stay
 
@@ -478,7 +520,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -510,15 +551,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -541,6 +600,8 @@ Home›Burlington›341 Meeting in Burlington
 341 Meeting of Creditors in Burlington
 
 The 341 meeting is required in every bankruptcy case. It is brief and straightforward.
+
+Brief hearing with the trustee, about 30 days after filing, lasting 5-10 minutes.
 
 What to Bring
 
@@ -617,6 +678,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 13 Bankruptcy in Burlington, Vermont - Repayment Plan Guide
@@ -630,6 +693,8 @@ Home›Burlington›Chapter 13 Bankruptcy in Burlington
 Chapter 13 Bankruptcy in Burlington
 
 Chapter 13 lets you keep your property while repaying debts over 3-5 years through a court-approved plan.
+
+You can request a modification, hardship discharge, or convert to Chapter 7.
 
 What Is Chapter 13?
 
@@ -706,6 +771,8 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 7 Bankruptcy in Burlington, Vermont - Eligibility and Process
@@ -719,6 +786,8 @@ Home›Burlington›Chapter 7 Bankruptcy in Burlington
 Chapter 7 Bankruptcy in Burlington
 
 Chapter 7 eliminates most unsecured debts in 3-4 months. Here is how it works for Burlington residents.
+
+If your equity is under $125,000 (Vermont homestead exemption), your home is protected.
 
 What Is Chapter 7?
 
@@ -817,6 +886,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## How Much Does Bankruptcy Cost in Burlington, Vermont?
@@ -830,6 +901,8 @@ Home›Burlington›Bankruptcy Costs in Burlington
 Bankruptcy Costs in Burlington, Vermont
 
 A breakdown of what bankruptcy costs in Burlington, including filing fees, attorney fees, and credit counseling.
+
+Chapter 7 filers below 150% of federal poverty line may qualify for a complete fee waiver.
 
 Filing Fees
 
@@ -900,6 +973,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Vermont Bankruptcy Exemptions - Burlington Filer's Guide
@@ -913,6 +988,8 @@ Home›Burlington›Vermont Exemptions for Burlington Filers
 Vermont Bankruptcy Exemptions for Burlington Filers
 
 Vermont allows filers to choose between state and federal exemptions. You cannot mix them.
+
+Homeowners usually benefit from state ($125,000 homestead). Renters may prefer federal wildcard.
 
 Vermont State Exemptions
 
@@ -988,6 +1065,8 @@ You May Also Find Helpful
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1074,6 +1153,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Burlington, Vermont - Complete Guide
@@ -1104,6 +1185,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Burlington residents file at the U.S. Bankruptcy Court at 11 Elmwood Ave, Burlington, VT 05401. Vermont has one federal bankruptcy district (D. Vt.).
 
 Where to File
 
@@ -1236,6 +1319,30 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Bankruptcy Means Test in Burlington, Vermont - Do You Qualify?
@@ -1249,6 +1356,8 @@ Home›Burlington›Means Test in Burlington
 Bankruptcy Means Test in Burlington
 
 The means test determines Chapter 7 eligibility by comparing your income to the Vermont median.
+
+Income comparison to Vermont median for Chapter 7 eligibility.
 
 Vermont Median Income
 
@@ -1321,6 +1430,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Colchester, Vermont - Guide
@@ -1353,6 +1464,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+Colchester residents file at 11 Elmwood Ave, Burlington, VT 05401.
 
 Where to File
 
@@ -1423,6 +1536,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Essex, Vermont - Guide
@@ -1455,6 +1570,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+Essex residents file at 11 Elmwood Ave, Burlington, VT 05401.
 
 Where to File
 
@@ -1525,6 +1642,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in South Burlington, Vermont - Guide
@@ -1557,6 +1676,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+South Burlington residents file at 11 Elmwood Ave, Burlington, VT 05401.
 
 Where to File
 
@@ -1627,6 +1748,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Winooski, Vermont - Guide
@@ -1659,6 +1782,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+Winooski residents file at 11 Elmwood Ave, Burlington, VT 05401.
 
 Where to File
 
@@ -1729,6 +1854,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Can I Buy a Car While in Chapter 13 in Vermont?
@@ -1743,7 +1870,7 @@ Can I Buy a Car While in Chapter 13 in Vermont?
 
 Yes - but you need court permission first. Buying a car during Chapter 13 requires filing a motion, getting trustee approval, and showing the purchase fits your budget.
 
-Quick answer: You can buy a car during Chapter 13 in Vermont, but you must file a Motion to Incur New Debt and get court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
+Quick answer: You can buy a car during Chapter 13 in Vermont, but the typical mechanism is filing a Motion to Incur New Debt and obtaining court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
 
 The Process: Step by Step
 
@@ -1795,7 +1922,7 @@ Frequently Asked Questions
 
 Can I buy a car while in Chapter 13 in Vermont?
 
-Yes, but you need court approval. You must file a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
+Court approval is generally required. The typical mechanism is filing a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
 
 Do I need trustee approval to buy a car in Vermont Chapter 13?
 
@@ -1811,7 +1938,7 @@ You or your attorney file a Motion to Incur New Debt with the bankruptcy court. 
 
 Can I lease a car during Chapter 13 in Vermont?
 
-Leasing during Chapter 13 is treated the same as buying - you need court approval. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
+Leasing during Chapter 13 is treated the same as buying - court approval is generally required. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
 
 What happens if I buy a car without court approval?
 
@@ -1853,15 +1980,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1886,6 +2031,8 @@ Buying a House After Bankruptcy in Vermont
 Bankruptcy does not permanently prevent homeownership. Thousands of Americans buy homes after bankruptcy every year. Here are the waiting periods, requirements, and strategies for Vermont residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+After Chapter 7: 2-4 years depending on the loan type (FHA requires 2 years, conventional requires 4 years). After Chapter 13: 1-2 years after discharge (FHA may allow applications during an active plan with trustee approval). VA loans require 2 years after Chapter 7 and may allow applications during Chapter 13.
 
 Waiting Periods by Loan Type
 
@@ -1965,7 +2112,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -1997,15 +2143,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2167,15 +2331,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2200,6 +2382,8 @@ Chapter 13 Bankruptcy Eligibility in Vermont
 Chapter 13 lets Vermont residents keep their property while repaying debts over 3-5 years. Here are the eligibility requirements.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Core Eligibility Requirements
 
@@ -2297,7 +2481,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -2329,15 +2512,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2362,6 +2563,8 @@ Chapter 13 Payments in Vermont
 Your Chapter 13 plan payment is based on your income, expenses, and debts. Here is how it works in Vermont and what to do if you cannot keep up.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Your monthly payment depends on your disposable income (income minus allowed expenses), the amount of secured and priority debts you must pay, and the liquidation test (unsecured creditors must receive at least what they would get in Chapter 7). Most Vermont Chapter 13 payments range from a few hundred to a few thousand dollars per month.
 
 How Payments Are Calculated
 
@@ -2449,7 +2652,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -2481,15 +2683,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2524,6 +2744,8 @@ Filing Fee
 $125,000
 
 Homestead Exemption
+
+Chapter 13 plans last 3 to 5 years. If your income is below the Vermont median, you may qualify for a 3-year plan. If above the median, your plan must be 5 years. During this time, you make monthly payments to a trustee who distributes the money to your creditors.
 
 What Is Chapter 13?
 
@@ -2630,15 +2852,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2663,6 +2903,8 @@ Chapter 7 Bankruptcy Eligibility in Vermont
 Chapter 7 bankruptcy can eliminate most unsecured debt in 3-4 months. Here is how to determine whether you qualify to file in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+To qualify for Chapter 7 in Vermont, your household income must be at or below the state median income for your household size. If above median, you must pass the means test, which deducts allowed expenses from your income. If the result shows insufficient disposable income, you still qualify. Current Vermont median income figures are updated twice yearly.
 
 The Means Test
 
@@ -2744,7 +2986,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -2776,15 +3017,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2807,6 +3066,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Vermont
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Vermont residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -2939,15 +3200,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -2972,6 +3251,8 @@ Bankruptcy Filing Checklist for Vermont
 Filing bankruptcy requires careful preparation. Use this comprehensive checklist to gather everything you need before filing in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You will need: last 6 months of pay stubs, last 2 years of tax returns, bank statements for all accounts, a list of all debts with account numbers and balances, vehicle titles or registration, mortgage statements, and a list of all property you own with estimated values. You can choose between state and federal exemptions, so gather information about both.
 
 Income Documents
 
@@ -3155,15 +3436,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3188,6 +3487,8 @@ Converting Bankruptcy Chapters in Vermont
 If your financial situation changes after filing, Vermont debtors can convert between bankruptcy chapters. Understanding your conversion rights can help you get the best outcome.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Under 11 U.S.C. section 706 and section 1307, you generally have the right to convert between chapters. Chapter 7 debtors can convert to Chapter 13 once as a matter of right. Chapter 13 debtors can convert to Chapter 7 at any time if they have not previously converted from Chapter 7.
 
 Conversion Options
 
@@ -3271,7 +3572,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -3303,15 +3603,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3346,6 +3664,8 @@ Chapter 13 Filing Fee
 $25-50
 
 Credit Counseling (2 courses)
+
+The Chapter 7 filing fee is $338. Attorney fees in Vermont typically range from $1,200 to $2,000. Credit counseling courses cost about $25-50 total (two required). Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -3436,15 +3756,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3469,6 +3807,8 @@ Rebuilding Credit After Bankruptcy in Vermont
 Bankruptcy is not the end of your financial life - it is a fresh start. Here is a practical guide to rebuilding your credit after bankruptcy in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 bankruptcy remains on your credit report for 10 years from the filing date. Chapter 13 remains for 7 years from the filing date. However, your credit score can begin improving much sooner than that.
 
 The Credit Score Timeline
 
@@ -3626,15 +3966,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3660,6 +4018,8 @@ Credit card debt is one of the most common reasons Vermont residents file for ba
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
 
+Yes. Credit card debt is unsecured debt and is generally dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Vermont. In Chapter 7, it is eliminated entirely. In Chapter 13, you pay a percentage based on your disposable income over 3-5 years, and the rest is discharged.
+
 How Each Chapter Handles Credit Card Debt
 
 Chapter 7
@@ -3674,7 +4034,7 @@ Recent Charges: The 90-Day and 70-Day Rules
 
 Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is presumed to be non-dischargeable:
 
-Luxury goods/services over $800 charged within 90 days before filing
+Luxury goods/services over $900 charged within 90 days before filing
 
 Cash advances over $1,250 within 70 days before filing
 
@@ -3736,7 +4096,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -3768,15 +4127,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3808,7 +4185,7 @@ The Two Presumption Periods
 
 Applies to purchases of luxury goods/services
 
-Threshold: $800+ to a single creditor
+Threshold: $900+ to a single creditor
 
 Within 90 days of filing
 
@@ -3820,7 +4197,7 @@ Presumed non-dischargeable (you must prove otherwise)
 
 Applies to cash advances
 
-Threshold: $1,100+ in aggregate
+Threshold: $1,250+ in aggregate
 
 Within 70 days of filing
 
@@ -3876,7 +4253,7 @@ Technically you can, but it is strongly discouraged. Charges made with no intent
 
 What is the 90-day rule for credit cards before bankruptcy?
 
-Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $800 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
+Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $900 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
 
 What is the 70-day rule for cash advances?
 
@@ -3930,15 +4307,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3963,6 +4358,8 @@ Types of Debt in Vermont Bankruptcy
 Not all debts are treated equally in bankruptcy. Understanding which debts can be eliminated and which survive is essential for making the right filing decision in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Most unsecured debts can be discharged, including credit card debt, medical bills, personal loans, utility arrears, old tax debt (if it meets age requirements), and deficiency balances from repossession or foreclosure. Some debts like student loans, recent taxes, child support, and fraud-based debts generally cannot be discharged.
 
 Dischargeable Debts (Can Be Eliminated)
 
@@ -4108,15 +4505,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4141,6 +4556,8 @@ Bankruptcy Disqualifications in Vermont
 Not everyone qualifies for bankruptcy relief. Understanding the disqualifications can help Vermont residents plan their filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You may be disqualified from bankruptcy if: you did not complete credit counseling, you received a recent prior discharge (8 years for Ch.7-to-Ch.7, 4 years for Ch.7-to-Ch.13, 6 years for Ch.13-to-Ch.7, 2 years for Ch.13-to-Ch.13), you committed fraud, your prior case was dismissed within 180 days for cause, or your income is too high for Chapter 7 and debts exceed Chapter 13 limits.
 
 Filing Bars: When You Cannot File
 
@@ -4236,7 +4653,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4268,15 +4684,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4301,6 +4735,8 @@ Divorce and Bankruptcy in Vermont
 Divorce and bankruptcy often occur together. Understanding how they interact in Vermont can help you protect your assets, manage shared debts, and plan the best filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file bankruptcy before, during, or after a divorce in Vermont. The timing affects how debts and property are divided. Filing before the divorce can simplify property division by eliminating joint unsecured debt.
 
 Filing Order: Bankruptcy Before, During, or After Divorce
 
@@ -4384,7 +4820,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4416,15 +4851,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4449,6 +4902,8 @@ Emergency Bankruptcy Filing in Vermont
 When foreclosure, repossession, or garnishment is days or even hours away, Vermont residents can file an emergency bankruptcy petition to trigger the automatic stay immediately.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file an emergency (bare-bones) bankruptcy petition in Vermont to get the automatic stay protection immediately. You file only the two-page voluntary petition, a creditor list, and proof of credit counseling. You then have 14 days to file the remaining schedules and documents.
 
 What Is an Emergency Bankruptcy Filing?
 
@@ -4547,7 +5002,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4579,15 +5033,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4753,15 +5225,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4893,15 +5383,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5063,15 +5571,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5094,6 +5620,8 @@ Home›Exemptions
 Vermont Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding Vermont's exemptions is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Vermont's homestead exemption protects up to $125,000 of equity in your primary residence. Vermont also allows filers to choose federal exemptions.
 
 What Are Exemptions?
 
@@ -5194,15 +5722,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5214,7 +5760,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Vermont Bankruptcy FAQ - 15 Common Questions Answered
+## Vermont Bankruptcy FAQ [2026]: 15 D. Vermont Filing Questions Answered
 Source: https://vermontbankruptcy.org/faq.html
 
 Vermont Bankruptcy Guide
@@ -5225,6 +5771,8 @@ Home›Faq
 Vermont Bankruptcy FAQ
 
 Answers to the 15 most common questions from Vermont residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,200 to $2,000 for Chapter 7 and $3,000 to $4,500 for Chapter 13. Credit counseling costs about $25-50 total. Chapter 13 fees can be paid through your repayment plan. Fee waivers available for low-income Chapter 7 filers.
 
 Cost and Eligibility
 
@@ -5319,15 +5867,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5485,15 +6051,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5518,6 +6102,8 @@ Foreclosure and Bankruptcy in Vermont
 Facing foreclosure in Vermont? Bankruptcy can stop the process immediately and give you time to save your home. Here is how judicial foreclosure works in Vermont and how bankruptcy provides relief.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Filing bankruptcy triggers the automatic stay, which immediately halts all foreclosure proceedings in Vermont. Chapter 13 is especially powerful because it allows you to catch up on missed mortgage payments over 3-5 years while keeping your home.
 
 How Foreclosure Works in Vermont
 
@@ -5645,15 +6231,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5678,6 +6282,8 @@ Vermont Bankruptcy Glossary
 Key bankruptcy terms and definitions for Vermont filers, from automatic stay to wildcard exemption.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 Bankruptcy Terms A-Z
 
@@ -5788,7 +6394,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5820,15 +6425,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5853,6 +6476,8 @@ Bankruptcy Income Limits in Vermont
 Your income determines which bankruptcy chapter you qualify for in Vermont and how much you pay in Chapter 13. Here is how the income limits work.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+For Chapter 7, your household income must be at or below the Vermont median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 Chapter 7 Income Limits
 
@@ -5930,7 +6555,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5962,15 +6586,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5982,13 +6624,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Vermont Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Vermont Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://vermontbankruptcy.org/
 
 Skip to main content
 
 Vermont Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQStatsResourcesOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostFAQStatsResourcesOBP Rule 9037 Compliance Guide
 
 Vermont Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -6012,6 +6654,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Vermont typically range from $1,200 to $2,000 for Chapter 7 and $3,000 to $4,500 for Chapter 13. You will also need to pay for two required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -6140,7 +6784,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6187,19 +6830,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -6285,6 +6942,75 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+341 Meeting
+Bank Account
+Burlington: 341 Meeting
+Burlington: Chapter 13
+Burlington: Chapter 7
+Burlington: Exemptions
+Burlington: Faq
+Burlington: Means Test
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Converting Chapters
+Credit Card Debt
+Credit Cards Before Filing
+Debt Types
+Disqualifications
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Income Limits
+Index
+Judgments
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Retirement Accounts
+Second Mortgage
+Small Business
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeline
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in Vermont
@@ -6300,6 +7026,8 @@ Judgments and Bankruptcy in Vermont
 A civil judgment against you does not mean you are out of options. Bankruptcy can discharge the underlying debt and even remove judgment liens from your property in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Most money judgments based on unsecured debt (credit cards, medical bills, personal loans) are dischargeable in bankruptcy in Vermont. The underlying debt determines dischargeability - if the original debt was dischargeable, the judgment based on that debt is also dischargeable.
 
 Discharging Judgments in Bankruptcy
 
@@ -6391,7 +7119,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6423,15 +7150,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6456,6 +7201,8 @@ Keep Your Car in Vermont Bankruptcy
 One of the biggest fears people have about bankruptcy is losing their car. The good news: most people in Vermont keep their vehicles. Here is how car protection works in Vermont bankruptcy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Vermont's vehicle exemption protects up to $2,500 of equity in your car. If your equity is below that amount, your car is fully protected in Chapter 7. In Chapter 13, you can keep your car while catching up on payments through your repayment plan.
 
 Vermont's Vehicle Exemption: $2,500
 
@@ -6575,15 +7322,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6608,6 +7373,8 @@ Keep Your House in Vermont Bankruptcy
 Your home is often your most important asset. Here is how Vermont's $125,000 homestead exemption and bankruptcy law work together to help you keep your house.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Vermont's homestead exemption protects up to $125,000 of equity in your home. If your equity is below that amount, your home is fully protected in Chapter 7. In Chapter 13, you keep your home while catching up on missed mortgage payments through a 3-5 year repayment plan.
 
 Vermont's Homestead Exemption: $125,000
 
@@ -6725,15 +7492,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6877,15 +7662,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6910,6 +7713,8 @@ Medical Debt and Bankruptcy in Vermont
 Medical debt is the leading cause of bankruptcy in America. If you are overwhelmed by medical bills in Vermont, bankruptcy can eliminate that debt and give you a fresh start.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Medical debt is unsecured debt, which is typically fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. In Chapter 7, medical debt is eliminated entirely within 3-4 months. In Chapter 13, you may pay a portion through your plan, with the remainder discharged.
 
 Medical Debt Is Fully Dischargeable
 
@@ -7039,15 +7844,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7072,6 +7895,8 @@ Payday Loans and Bankruptcy in Vermont
 Payday loans trap borrowers in cycles of high-interest debt. Bankruptcy can break that cycle by discharging payday loan obligations entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt and are fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Vermont. Once discharged, the lender cannot collect, even if they have post-dated checks or ACH authorization.
 
 Payday Loans Are Dischargeable
 
@@ -7139,7 +7964,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7171,15 +7995,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7305,15 +8147,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7451,15 +8311,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7627,15 +8505,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7660,6 +8556,8 @@ Vehicle Repossession and Bankruptcy in Vermont
 Is your car about to be repossessed? Bankruptcy can stop repossession immediately and may help you get your vehicle back. Here is how it works in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Filing bankruptcy triggers the automatic stay, which immediately prohibits creditors from repossessing your vehicle. If repossession is imminent, an emergency bankruptcy filing can stop it.
 
 Before Repossession: Filing Stops It
 
@@ -7791,15 +8689,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7822,6 +8738,8 @@ Home›Resources
 Vermont Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process in Vermont.
+
+Vermont has 1 federal bankruptcy court. D. Vt.: 67 Merchants Row, Suite 300, Rutland, VT 05701 ((802) 776-2000)
 
 Bankruptcy Courts
 
@@ -7928,15 +8846,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7958,7 +8894,7 @@ Home›Retirement Accounts and Bankruptcy in Vermont
 
 Retirement Accounts and Bankruptcy in Vermont
 
-Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Vermont filers need to know.
+Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,711,975. Here is what Vermont filers need to know.
 
 Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
@@ -7980,7 +8916,7 @@ Thrift Savings Plan (TSP) - fully exempt for federal employees
 
 This protection applies nationwide regardless of state exemption choices. The trustee cannot touch these accounts.
 
-IRAs: Protected Up to $1,512,350
+IRAs: Protected Up to $1,711,975
 
 Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
@@ -8076,15 +9012,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8126,6 +9080,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+67 Merchants Row Suite 300 Rutland VT 05701 or 11 Elmwood Ave Burlington VT 05401.
 
 What Is Chapter 13?
 
@@ -8185,7 +9141,7 @@ What happens if I miss a Chapter 13 payment in Rutland?
 
 The trustee will file a motion to dismiss after one or two missed payments. You have a chance to cure the default by catching up, modifying the plan to add the missed amount to future payments, or converting to Chapter 7. Do not ignore a motion to dismiss - dismissal without a discharge means all your creditors come back.
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Open Bankruptcy Project Network
 
@@ -8217,6 +9173,8 @@ You May Also Find Helpful
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -8250,6 +9208,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+67 Merchants Row Suite 300 Rutland VT 05701 or 11 Elmwood Ave Burlington VT 05401.
 
 What Is Chapter 7?
 
@@ -8317,7 +9277,7 @@ How much does a Chapter 7 attorney cost in Rutland?
 
 Attorney fees vary, but the typical range for a straightforward consumer Chapter 7 in most districts runs from about $1,000 to $2,500 plus the $338 court filing fee. Be careful with firms advertising '$0 down' Chapter 7 - upfront attorney fees in Chapter 7 are discharged if unpaid at filing, so 'no money down' is usually a Chapter 13 pitch.
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Open Bankruptcy Project Network
 
@@ -8349,6 +9309,8 @@ You May Also Find Helpful
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -8382,6 +9344,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+67 Merchants Row Suite 300 Rutland VT 05701 or 11 Elmwood Ave Burlington VT 05401.
 
 Vermont State Exemptions
 
@@ -8451,7 +9415,7 @@ Are retirement accounts safe in bankruptcy?
 
 Yes, almost always. ERISA-qualified plans (401(k), 403(b), pension) are excluded from the estate entirely. Traditional and Roth IRAs are exempt up to a federal cap that is adjusted periodically - currently over $1.5 million in aggregate. Inherited IRAs are treated differently and may not receive the same protection under Clark v. Rameker (2014).
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Open Bankruptcy Project Network
 
@@ -8483,6 +9447,8 @@ You May Also Find Helpful
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -8541,6 +9507,8 @@ Free legal help?
 
 Vermont Legal Aid: (800) 889-2047, vtlegalaid.org.
 
+67 Merchants Row Suite 300 Rutland VT 05701 or 11 Elmwood Ave Burlington VT 05401.
+
 More Vermont Bankruptcy Questions Answered
 
 The questions below cover topics that come up repeatedly in consultations with Rutland and greater southern Vermont filers. For information specific to one chapter, see the Chapter 7 and Chapter 13 pages. For questions about keeping specific property, see the exemptions guide.
@@ -8563,7 +9531,7 @@ What debts survive bankruptcy in Vermont?
 
 Federal law governs dischargeability, not state law. The common non-dischargeables are: most student loans, recent taxes, child support and alimony, criminal fines and restitution, personal injury debts from drunk driving, and debts obtained by fraud. Everything else - credit cards, medical bills, old taxes, personal loans, deficiencies on repossessed property - is dischargeable in both Chapter 7 and Chapter 13.
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Open Bankruptcy Project Network
 
@@ -8596,6 +9564,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Rutland, Vermont
@@ -8626,6 +9596,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+67 Merchants Row Suite 300 Rutland VT 05701 or 11 Elmwood Ave Burlington VT 05401.
 
 Where to File
 
@@ -8691,7 +9663,7 @@ How much does bankruptcy cost in Rutland?
 
 The court filing fee is $338 for Chapter 7 and $313 for Chapter 13. Attorney fees vary. Typical Chapter 7 attorney fees in Vermont run $1,000 to $2,000 for a straightforward consumer case. Chapter 13 attorney fees are usually higher because of the plan confirmation process and five-year trustee relationship - $3,000 to $4,500 is common, often paid partially through the plan itself.
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Open Bankruptcy Project Network
 
@@ -8724,6 +9696,30 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Second Mortgages and Bankruptcy in Vermont
@@ -8739,6 +9735,8 @@ Second Mortgages and Bankruptcy in Vermont
 If your Vermont home is worth less than your first mortgage, Chapter 13 lien stripping can eliminate your second mortgage entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, through a process called lien stripping in Chapter 13. If your home is worth less than what you owe on your first mortgage, the second mortgage is considered wholly unsecured and can be treated as general unsecured debt in your plan. At completion of the plan, the lien is removed.
 
 What Is Lien Stripping?
 
@@ -8820,7 +9818,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -8852,15 +9849,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9006,15 +10021,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9039,6 +10072,8 @@ Small Business Bankruptcy in Vermont
 Running a small business in Vermont is hard enough without crushing debt. If your business is struggling, bankruptcy offers several paths - from reorganization to an orderly wind-down.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Small business owners in Vermont have several options: Chapter 7 (liquidation of business assets), Chapter 11 Subchapter V (streamlined reorganization for businesses with no more than $3,424,000 in debt), Chapter 13 (if you are a sole proprietor with debts under the limit), or simply closing the business and filing personal Chapter 7 to discharge personal guarantees.
 
 Bankruptcy Options for Vermont Business Owners
 
@@ -9194,15 +10229,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9214,7 +10267,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Vermont Bankruptcy Statistics - Filing Data and Trends
+## Vermont Bankruptcy Statistics [2026]: D. Vermont Filing Volume, Chapter Mix, and Discharge Data
 Source: https://vermontbankruptcy.org/statistics.html
 
 Vermont Bankruptcy Guide
@@ -9241,6 +10294,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Since 2008, Vermont's district has processed over 10,000+ bankruptcy cases. Filing volumes peaked around 2010-2011 following the financial crisis and have generally declined since.
 
 Vermont Federal Court District
 
@@ -9291,7 +10346,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -9322,15 +10376,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9458,15 +10530,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9491,6 +10581,8 @@ Student Loans and Bankruptcy in Vermont
 Student loan debt is a growing crisis. While discharging student loans in bankruptcy has historically been difficult, recent changes are making it more achievable for Vermont borrowers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, but it is harder than other debts. Student loans can be discharged in bankruptcy by filing an adversary proceeding and proving undue hardship. Recent DOJ guidance (November 2022) has made this process more accessible, and some courts in the District of Vermont may apply a more flexible standard.
 
 The Changing Landscape of Student Loan Discharge
 
@@ -9622,15 +10714,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9786,15 +10896,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9819,6 +10947,8 @@ Tax Debt and Bankruptcy in Vermont
 Tax debt can feel insurmountable, but bankruptcy may offer relief. Some tax debts can be discharged in bankruptcy if they meet specific requirements.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Some tax debts can be discharged in bankruptcy, but it depends on the type of tax, when it was due, and whether returns were filed. Income taxes that meet specific age and filing requirements may be dischargeable.
 
 The Tax Discharge Tests
 
@@ -9948,15 +11078,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10082,15 +11230,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10115,6 +11281,8 @@ Bankruptcy Timeline in Vermont
 Understanding the bankruptcy timeline helps you plan and reduces anxiety. Here is a detailed look at what happens at each stage when filing in Vermont.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 bankruptcy typically takes 3-4 months from filing to discharge. The 341 meeting of creditors happens about 30 days after filing, and discharge is usually granted 60 days after the 341 meeting.
 
 Chapter 7 Timeline: 3-4 Months
 
@@ -10256,15 +11424,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10418,15 +11604,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10564,15 +11768,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10597,6 +11819,8 @@ Wage Garnishment and Bankruptcy in Vermont
 If your paycheck is being garnished, filing bankruptcy can stop it immediately. Here is how wage garnishment works in Vermont and how bankruptcy provides relief.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Vermont follows the federal standard for wage garnishment: creditors can garnish the lesser of 25% of disposable earnings or the amount exceeding 30 times the federal minimum wage per week.
 
 Vermont Wage Garnishment Rules
 
@@ -10730,15 +11954,33 @@ Vermont Exemptions
 
 Bankruptcy Cost in Vermont
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vermontbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10806,7 +12048,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -10816,6 +12058,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About vermontbankruptcy.org
+Source: https://vermontbankruptcy.org/about.html
+
+vermontbankruptcy.org
+
+Home
+About
+Privacy
+
+About vermontbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+vermontbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

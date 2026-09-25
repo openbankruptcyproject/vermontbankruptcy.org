@@ -1,5 +1,5 @@
-# Vermont Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Vermont Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Vermont bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Vermont exemptions, filing costs, means test, and what to expect in your case.
 
@@ -44,12 +44,12 @@ vermontbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Can I Keep My Jewelry in Vermont Bankruptcy?: https://vermontbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Vermont?: https://vermontbankruptcy.org/eviction.html
 - Vermont Bankruptcy Exemptions - What You Can Keep: https://vermontbankruptcy.org/exemptions.html
-- Vermont Bankruptcy FAQ - 15 Common Questions Answered: https://vermontbankruptcy.org/faq.html
+- Vermont Bankruptcy FAQ [2026]: 15 D. Vermont Filing Questions Answered: https://vermontbankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Vermont: https://vermontbankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Vermont: https://vermontbankruptcy.org/foreclosure.html
 - Vermont Bankruptcy Glossary: https://vermontbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Vermont: https://vermontbankruptcy.org/income-limits.html
-- Vermont Bankruptcy - Chapter 7 & 13 Filing Guide: https://vermontbankruptcy.org/
+- Vermont Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://vermontbankruptcy.org/
 - Judgments and Bankruptcy in Vermont: https://vermontbankruptcy.org/judgments.html
 - Keep Your Car in Vermont Bankruptcy: https://vermontbankruptcy.org/keep-your-car.html
 - Keep Your House in Vermont Bankruptcy: https://vermontbankruptcy.org/keep-your-house.html
@@ -70,7 +70,7 @@ vermontbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Second Mortgages and Bankruptcy in Vermont: https://vermontbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Vermont - Will I Lose My Clearance?: https://vermontbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Vermont: https://vermontbankruptcy.org/small-business.html
-- Vermont Bankruptcy Statistics - Filing Data and Trends: https://vermontbankruptcy.org/statistics.html
+- Vermont Bankruptcy Statistics [2026]: D. Vermont Filing Volume, Chapter Mix, and Discharge Data: https://vermontbankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Vermont: https://vermontbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Vermont: https://vermontbankruptcy.org/student-loans.html
 - Surrendering Your Car in Vermont Bankruptcy - Process, Deficiency, Options: https://vermontbankruptcy.org/surrender-car.html
@@ -81,6 +81,7 @@ vermontbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Can I Travel During Chapter 13 in Vermont?: https://vermontbankruptcy.org/travel-chapter-13.html
 - Wage Garnishment and Bankruptcy in Vermont: https://vermontbankruptcy.org/wage-garnishment.html
 - Privacy Policy: https://vermontbankruptcy.org/privacy.html
+- About vermontbankruptcy.org: https://vermontbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
