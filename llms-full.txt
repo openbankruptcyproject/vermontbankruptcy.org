@@ -1,6 +1,6 @@
 # vermontbankruptcy.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on vermontbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -10620,7 +10620,7 @@ No rigid three-prong requirement
 
 Alternatives to Bankruptcy for Student Loans
 
-Income-Driven Repayment (IDR): Plans like SAVE, IBR, PAYE, and ICR cap payments at 5-20% of discretionary income. Remaining balance forgiven after 20-25 years.
+Income-Driven Repayment (IDR): Plans like IBR and the Repayment Assistance Plan base payments on income. Remaining balance forgiven after 20 to 30 years, depending on the plan. SAVE was ended by court order on March 10, 2026.
 
 Public Service Loan Forgiveness (PSLF): Full forgiveness after 120 qualifying payments while working for government or non-profit employers.
 
@@ -10666,7 +10666,7 @@ In November 2022, the Department of Justice issued new guidance making it easier
 
 What about income-driven repayment plans?
 
-Income-driven repayment (IDR) plans like SAVE, IBR, PAYE, and ICR can reduce monthly payments to as low as $0 based on income. However, they do not eliminate the debt. Bankruptcy may be a better option if the total debt is unmanageable even with reduced payments.
+Income-driven repayment (IDR) plans like IBR and the Repayment Assistance Plan can reduce monthly payments, under IBR to as low as $0, based on income. However, they do not eliminate the debt. Bankruptcy may be a better option if the total debt is unmanageable even with reduced payments.
 
 Does filing bankruptcy stop student loan collection?
 
